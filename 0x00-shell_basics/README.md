@@ -6,3 +6,4 @@ script file 4-listmorefiles list all fine even those hidden in long format
 script file 5-listfilesdigitonly list all file in long format even hidden files beginning with a period
 sript file 6-firstdirectory used to make directory called my_first_directory in the tmp directory.
 script file 7-movethatfile moves file named betty in tmp directory to tmp/my_first_directory.
+script file 8-firstdelete deletes file betty in /tmp/my_first_directory.
