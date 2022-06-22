@@ -11,3 +11,4 @@ script file 9-firstdirdeletion deletes my_first_directory in tmp.
 script file 10-back changes directory to previuos one
 script file 11-lists list all files in . .. and boot directories in long format.
 script file 12-file_type displays information on the type if file iamafile is.
+script file 13-symbolic_link creates symbolic link in current directory to /bin/ls.
