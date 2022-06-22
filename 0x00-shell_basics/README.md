@@ -9,3 +9,4 @@ script file 7-movethatfile moves file named betty in tmp directory to tmp/my_fir
 script file 8-firstdelete deletes file betty in /tmp/my_first_directory.
 script file 9-firstdirdeletion deletes my_first_directory in tmp.
 script file 10-back changes directory to previuos one
+script file 11-lists list all files in . .. and boot directories in long format.
