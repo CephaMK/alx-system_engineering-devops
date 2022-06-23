@@ -5,3 +5,4 @@ script file 3-new_owner chnges ownership of the file hello to user betty.
 script file 4-empty creates an empty file called hello
 script file 5-execute used to add executive permission to file owner
 script file 6-multiple_permissions adds execute permission to the owner and the group owner, and read permission to other users, to the file hello.
+script file 7-everybody  adds execution permission to the owner, the group owner and the other users, to the file hello.
