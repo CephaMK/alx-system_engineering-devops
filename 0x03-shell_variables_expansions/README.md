@@ -7,3 +7,4 @@ script file 5-local_variables lists all local variables and environment variable
 script file 6-create_local_variable creates a new local variable name:BEST value:School.
 script file 7-create_global_variable creats a new global variable name:BEST value:School.
 script file 8-true_knowledge  prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
+script file 9-divide_and_rule  prints the result of POWER divided by DIVIDE, followed by a new line. POWER and DIVIDE are environmental variables.
