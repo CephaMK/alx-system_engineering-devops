@@ -17,4 +17,7 @@ script file 15-countthatword Display the number of lines that contain the patter
 script file 16-whatsnext displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd.
 script file 17-hidethisword Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 script file 18-letteronly Display all lines of the file /etc/ssh/sshd_config starting with a letter.
-
+cript file 19-AZ replaces all characters A and c from input to Z and e respectively.
+script file 20-hiago creates  a script that removes all letters c and C from input.
+script file 21-reverse reverses its input.
+script file 22-users_and_homes displays all users and their home directories, sorted by users. Based on the the /etc/passwd file
