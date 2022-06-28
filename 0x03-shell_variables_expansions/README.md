@@ -5,3 +5,4 @@ script file 3-paths creates a script that counts the number of directories in th
 script file 4-global_variables lists the environment variables.
 script file 5-local_variables lists all local variables and environment variables, and functions.
 script file 6-create_local_variable creates a new local variable name:BEST value:School.
+script file 7-create_global_variable creats a new global variable name:BEST value:School.
